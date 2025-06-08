@@ -4,4 +4,4 @@
 quanto de dinheiro irá obter de retorno
 </p>
 
-<img src="image/image.png" width="300px" height="300px" />
+<img src="image/image.png" width="500px" height="400px" />
